@@ -1,3 +1,5 @@
+# Name : Deepshika Hemanth kumar
+# register number : 212224220020
 # T-FLIPFLOP-POSEDGE
 
 **AIM:**
@@ -40,15 +42,6 @@ From the above characteristic table, we can directly write the next state equati
 
 
 **PROGRAM**
-
-```
-/*
-Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by: GAUTHAM KRISHNA S 
-RegisterNumber: 212223240036
-*/
-```
-
 ```VHDL
 module TFLIPFLOPPOSEDGE( input clk, rst_n, input t,
 output reg q,
